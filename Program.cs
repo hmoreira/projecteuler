@@ -1,9 +1,15 @@
-﻿int ret = 0;
+﻿int ret = 2;
+int value1 = 1;
+int value2 = 2;
+int value = 3;
 
-for (int i = 0;i<1000;i++)
+while (value<4000000)
 {
-    if (i % 3 == 0 || i % 5 == 0)
-      ret += i;
+    value1 = value2;
+    value2 = value;
+    value = value1 + value2;
+    if (value % 2 == 0)
+        ret += value;
 }
 
 Console.WriteLine(ret);
