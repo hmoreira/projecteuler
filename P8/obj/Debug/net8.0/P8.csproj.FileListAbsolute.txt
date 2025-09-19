@@ -1,0 +1,15 @@
+C:\projects\projecteuler\P8\bin\Debug\net8.0\P8.exe
+C:\projects\projecteuler\P8\bin\Debug\net8.0\P8.deps.json
+C:\projects\projecteuler\P8\bin\Debug\net8.0\P8.runtimeconfig.json
+C:\projects\projecteuler\P8\bin\Debug\net8.0\P8.dll
+C:\projects\projecteuler\P8\bin\Debug\net8.0\P8.pdb
+C:\projects\projecteuler\P8\obj\Debug\net8.0\P8.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\projecteuler\P8\obj\Debug\net8.0\P8.AssemblyInfoInputs.cache
+C:\projects\projecteuler\P8\obj\Debug\net8.0\P8.AssemblyInfo.cs
+C:\projects\projecteuler\P8\obj\Debug\net8.0\P8.csproj.CoreCompileInputs.cache
+C:\projects\projecteuler\P8\obj\Debug\net8.0\P8.sourcelink.json
+C:\projects\projecteuler\P8\obj\Debug\net8.0\P8.dll
+C:\projects\projecteuler\P8\obj\Debug\net8.0\refint\P8.dll
+C:\projects\projecteuler\P8\obj\Debug\net8.0\P8.pdb
+C:\projects\projecteuler\P8\obj\Debug\net8.0\P8.genruntimeconfig.cache
+C:\projects\projecteuler\P8\obj\Debug\net8.0\ref\P8.dll
