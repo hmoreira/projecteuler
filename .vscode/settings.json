@@ -1,0 +1,10 @@
+{
+    "scm.defaultViewMode": "tree",
+    "git.ignoreRebaseWarning": true,
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true,
+        "**/.vs": true
+    },
+    "explorer.excludeGitIgnore": true
+}
