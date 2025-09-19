@@ -2,12 +2,20 @@
 
 Este workspace é projetado para resolver problemas matemáticos do Project Euler usando C#/.NET, com uma estrutura de branching organizada e simples.
 
-## Estrutura do Projeto
+## ⚠️ Estrutura de Branches
 
-### Branching Strategy
-- **main**: Branch principal com configuração base e scripts utilitários
-- **P{número}**: Branch separado para cada problema (P1, P2, P3, etc.)
-- Cada branch de problema contém apenas um diretório com a solução
+**IMPORTANTE**: O branch `main` deve conter apenas:
+- Scripts utilitários (`new-problem.bat`, `new-problem.sh`)
+- Documentação (`README.md`, `.github/copilot-instructions.md`)
+- Configuração (`.gitignore`, `.vscode/`)
+
+**Cada problema deve existir APENAS em seu próprio branch:**
+- `P6` → branch `P6` 
+- `P7` → branch `P7`
+- `P8` → branch `P8`
+- etc.
+
+Se você ver diretórios de problemas no branch `main`, eles devem ser removidos.
 
 ### Estrutura de Arquivos
 ```
