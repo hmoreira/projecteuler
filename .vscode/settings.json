@@ -6,5 +6,16 @@
         "**/obj": true,
         "**/.vs": true
     },
-    "explorer.excludeGitIgnore": true
+    "explorer.excludeGitIgnore": true,
+    "git.decorations.enabled": false,
+    "scm.inputFontFamily": "default",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "files.watcherExclude": {
+        "**/bin/**": true,
+        "**/obj/**": true,
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true
+    }
 }
