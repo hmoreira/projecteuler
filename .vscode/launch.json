@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch P7",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/P7/bin/Debug/net9.0/P7.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/P7",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Launch P6",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/P6/bin/Debug/net9.0/P6.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/P6",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        }
+    ]
+}
