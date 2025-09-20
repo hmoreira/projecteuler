@@ -34,9 +34,7 @@ while (primeCount < 10001)
         
         // Print progress for first few primes and milestones
         if (primeCount <= 10 || primeCount % 1000 == 0 || primeCount == 10001)
-        {
-            Console.WriteLine($"Prime #{primeCount}: {currentNumber}");
-        }
+            Console.WriteLine($"Prime #{primeCount}: {currentNumber}");        
     }
     
     currentNumber++;
